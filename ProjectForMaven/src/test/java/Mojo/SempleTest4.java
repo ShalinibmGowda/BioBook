@@ -13,7 +13,7 @@ public class SempleTest4 {
 	public void update()
 	{
 		System.out.println("update");
-		System.out.println("Kochi");
+		System.out.println("Kochi ");
 	}
 	
 	@Test()
