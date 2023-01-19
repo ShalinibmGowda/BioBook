@@ -8,6 +8,6 @@ public class SimpleTest1 {
 	@Test
 	public void ts1() {
 		
-		System.out.println("ajdhusj");
+		System.out.println("ajdhusjfkjssovnjnj");
 	}
 }
